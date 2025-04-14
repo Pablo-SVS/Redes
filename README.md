@@ -1,6 +1,4 @@
 # Redes
-Com certeza! Aqui vai um modelo de README bem completo e estruturado com base nas análises e investigações que você realizou, junto com um panorama geral sobre redes. O texto está organizado em seções para facilitar a leitura:
-
 ---
 
 # 🧠 Análises de Redes de Computadores
